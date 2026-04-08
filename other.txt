@@ -38,3 +38,16 @@ git push -u origin main
 git add .
 git commit -m "updated code"
 git push
+
+
+
+//DOCKERHUB USERNAME AND PASSWORD
+USERNAME: 23mis0563
+PASSWORD: regular
+
+
+//JENKINS USERNAME AND PASSWORD
+USERNAME: 23MIS0563
+FULLNAME: Pavan Kalyan K
+EMAIL: pavankalyan7127@gmail.com
+PASSWORD: regular 
