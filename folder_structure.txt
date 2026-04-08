@@ -1,0 +1,7 @@
+folder name :
+        src :
+              main/java/App.java
+              test/java/AppTest.java
+        deployment.yaml
+        Dockerfile
+        pom.xml
