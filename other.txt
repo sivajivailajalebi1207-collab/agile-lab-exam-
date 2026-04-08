@@ -23,3 +23,18 @@ void testAddition() {
 assertEquals(5, App.add(2, 3)); 
 } 
 }
+
+
+//steps to push from vs code
+-> first time
+git init
+git add .
+git commit -m "initial commit"
+git branch -M main
+git remote add origin https://github.com/your-username/your-repo.git
+git push -u origin main
+
+-> next time (after changes)
+git add .
+git commit -m "updated code"
+git push
